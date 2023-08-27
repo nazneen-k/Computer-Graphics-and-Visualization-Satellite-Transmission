@@ -1,0 +1,61 @@
+﻿  satellite.cpp
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(59,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(59,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(59,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(68,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(68,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(68,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(76,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(76,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(76,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(77,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(83,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(83,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(83,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(84,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(97,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(102,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(102,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(130,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(138,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(139,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(139,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(142,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(144,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(168,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(176,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(194,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(194,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(201,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(201,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(211,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(211,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(211,11): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(218,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(218,12): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(227,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(229,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(249,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(249,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(259,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(259,11): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(274,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(274,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(276,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(286,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(286,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(288,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(298,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(298,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(300,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(312,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(313,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(331,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(334,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(343,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(360,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(364,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(364,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(447,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\satallite\satallite\satellite.cpp(448,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  satallite.vcxproj -> C:\Users\user\source\repos\satallite\x64\Debug\satallite.exe
